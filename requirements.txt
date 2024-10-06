@@ -50,7 +50,6 @@ opentelemetry-util-http==0.48b0
 orjson==3.10.7
 posthog==3.7.0
 protobuf==3.20.3
-pyasn1-modules==0.2.8
 pycurl==7.45.2
 pydantic==2.9.2
 pydantic-settings==2.5.2
@@ -75,5 +74,3 @@ uvicorn==0.31.0
 watchfiles==0.24.0
 websockets==13.1
 wheel==0.43.0
-streamlit~=1.32.0
-python-dotenv~=0.21.0
